@@ -9,8 +9,9 @@ A responsive React + Vite dashboard displaying company information using React M
 1. Clone the repo:
 
 ```bash
-[git clone https://github.com/yuriinagorniak/synergy-way_test-task.git](https://github.com/yuriinagorniak/synergy-way_test-task.git)
+git clone https://github.com/yuriinagorniak/synergy-way_test-task.git
 cd company-dashboard
+```
 
 2. Install dependencies
 npm install
